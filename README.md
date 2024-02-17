@@ -2,9 +2,9 @@
 D&D Campaign for 4-6 people
 
 ## Story
-In a world obsessed with `IPA's` (`Innkeeper's Pale Ale`) there was a mighty dwarf wizard, `Alberic Hopsbeard`, who delved too deeply into the world of hops which turned his brewery into a dungeon!
+In a world obsessed with `IPA's` (`Innkeeper's Pale Ale`) there was a mighty gnome wizard, `Alberic Hopsbeard`, who delved too deeply into the world of hops which turned his brewery into a dungeon!
 
-Alberic's quest for the ultimate IPA began with an ambitious experiment: to infuse his brew with the essence of a magical hop known only in the whispers of the oldest trees in the Enchanted Forest. This hop, rumored to grow in a hidden glade bathed in eternal moonlight, was said to possess the most intense flavors and bittering qualities, nurtured by the magic of the land itself.
+Alberic's quest for the ultimate IPA began with an ambitious experiment: to infuse his brew with the essence of a magical hop (`Lunarbloom Mystic Hops`) known only in the whispers of the oldest trees in the Enchanted Forest. This hop, rumored to grow in a hidden glade bathed in eternal moonlight, was said to possess the most intense flavors and bittering qualities, nurtured by the magic of the land itself.
 
 
 ## Starting off

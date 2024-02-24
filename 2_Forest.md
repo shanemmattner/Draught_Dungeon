@@ -1,8 +1,6 @@
 # Enchanted Forest
 
 
-
-
 <details>
 <summary> Monsters </summary>
 
@@ -17,6 +15,7 @@
 - **Vulnerabilities:** Fire
 - **Senses:** Darkvision 60 ft.
 - **Languages:** Understands Sylvan but can't speak
+- **Glowcap Spores:** Can be used in brewing or sold. Worth approximately 10-15 gold pieces.
 
 ![Glowcap Funglings](./images/forest/fungi.webp)
 
@@ -34,6 +33,7 @@
   - **Tangle:** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. **Hit:** The target is grappled (escape DC 13). While grappled, the creature is restrained and must succeed on a DC 10 Strength saving throw at the start of its turn or take 2 (1d4) piercing damage from thorns.
 - **Senses:** Darkvision 60 ft.
 - **Languages:** Sylvan, Common
+- **Sprite Dust:** Worth 25 gold pieces or can be used for the AC bonus.
 
 ![Forest Sprites](./images/forest/sprites.webp)
 
@@ -51,17 +51,10 @@
 - **Pack Tactics:** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Senses:** Passive Perception 13
 - **Languages:** —
+- **Wolf Pelt:** Can be sold for 5 gold pieces each. The Fang Necklace is worth 10 gold pieces or can be used in crafting.
 
 ![Timber Wolves](./images/forest/wolves.webp)
 
 </details>
-
-## Loot and Magical Item
-
-- **Glowcap Spores:** Can be used in brewing or sold. Worth approximately 10-15 gold pieces.
-- **Sprite Dust:** Worth 25 gold pieces or can be used for the AC bonus.
-- **Wolf Pelt:** Can be sold for 5 gold pieces each. The Fang Necklace is worth 10 gold pieces or can be used in crafting.
-- **Magical Item:** Cloak of the Forest Walker. Requires attunement. Gives advantage on Stealth checks in forested areas. Once per day, allows the wearer to become invisible as per the *Invisibility* spell when they remain still and take no actions, lasting for up to 10 minutes.
-
 
 </details>

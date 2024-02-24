@@ -67,7 +67,7 @@ Once a place of magical research, now filled with bubbling cauldrons producing u
 
 If players ask Giblin about what happened to the brewery and Alberic he tells them he's just the chemist and hasn't seen Alberic in a while.  But if the players will help him get some ingrediants from the next room he'll them to Alberic's study.
 
-Giblin gives the players each 2 healing potions plus 2 random potions from below after they help him get into the store room.
+Giblin gives the players each 2 healing potions plus 2 random potions from below after they help him get into the ingediants store room.
 
 
 ### List of 10 Random Potions:
@@ -115,7 +115,7 @@ Giblin gives the players each 2 healing potions plus 2 random potions from below
 </details>
 
 <details>
-<summary><span style="font-size:20px;">Storeroom</span></summary>
+<summary><span style="font-size:20px;">Lab Ingrediants Store Room</span></summary>
 
 The medium-sized storeroom within Alberic's Arcane Ales brewery is a critical component of the brewing operation. It is filled with shelves laden with brewing ingredients, barrels of various sizes, and sacks of grain. Jars of mystical herbs emit soft glows, adding a magical ambiance to the room. This space, while bustling with the potential for mischief from its magical guardians, remains organized and navigable, reflecting a well-managed brewing operation.
 

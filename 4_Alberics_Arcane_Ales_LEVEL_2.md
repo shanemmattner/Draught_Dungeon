@@ -91,6 +91,7 @@ Mutated from magical hops, these vine-like creatures attack with entangling appe
 The Elemental Brewing Chamber is the heart of the brewery's magical operations. Huge vats of brewing liquid float in the air, encircled by glowing elemental runes. At the center, an obsessed Alberic, merged with elemental spirits, channels his arcane energy into the brewing process using the `Lunarbloom Mystic Hops`
 
 ![Elemental Brewing Chamber](./images/level_2/elemental_brewing_chamber.png)
+![alberic](./images/level_2/alberic.png)
 
 ## Alberic - Elemental Wizard
 
